@@ -7,7 +7,7 @@ import AboutItem from "./AboutItem";
 
 const AboutSection = () => {
   return (
-    <div className="bg-[#121121] pb-[3rem] pt-[4rem]">
+    <div id="about" className="bg-[#121121] pb-[3rem] pt-[4rem]">
       <div className="max-w-screen-xl mx-auto px-4">
         <h1 className="flex justify-center items-center text-[25px] md:text-[35px] lg:text-[45px] md:leading-[3rem] leading-[2rem] uppercase font-bold text-[#55e6a5] mb-[1rem]">
           About me

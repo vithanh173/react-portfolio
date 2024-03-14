@@ -3,7 +3,7 @@ import ProjectCard from "./ProjectCard";
 
 const ProjectSection = () => {
   return (
-    <div className="bg-[#02050a] py-12">
+    <div id="projects" className="bg-[#02050a] py-12">
       <h1 className="flex justify-center items-center text-[25px] md:text-[35px] lg:text-[45px] md:leading-[3rem] leading-[2rem] uppercase font-bold text-[#55e6a5] mb-[1rem]">
         Project
       </h1>

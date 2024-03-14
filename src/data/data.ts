@@ -8,6 +8,7 @@ import nodejs from "../assets/node-js.png";
 import express from "../assets/express-js.png";
 import mongodb from "../assets/mongodb.png";
 import food_order_img from "../assets/hero.png";
+import legoshop from "../assets/legoshop.png";
 
 export const About = [
   {
@@ -75,7 +76,7 @@ export const Projects = [
     title: "MERN Estate",
     imgURL: "https://img-c.udemycdn.com/course/750x422/4884722_1fa8.jpg",
     githubLink: "https://github.com/vithanh173/mern-estate",
-    preview: "https://mern-blog-18az.onrender.com/",
+    preview: "https://mern-estate-600f.onrender.com",
     technology: ["TailwindCSS", "JavaScript", "React", "NodeJS", "Express", "MongoDB"],
   },
 
@@ -114,8 +115,7 @@ export const Projects = [
 
   {
     title: "Lego Shop",
-    imgURL:
-      "https://user-images.githubusercontent.com/99184393/229773559-72e7f64a-361d-4285-976a-00a8919dd783.png",
+    imgURL: legoshop,
     githubLink: "https://github.com/vithanh173/vithanh173legoshop.github.io",
     preview: "https://vithanh173.github.io/vithanh173legoshop.github.io/",
     technology: ["HTML/CSS", "JavaScript"],

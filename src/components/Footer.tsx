@@ -4,7 +4,7 @@ import { MapIcon } from "@heroicons/react/20/solid";
 
 const Footer = () => {
   return (
-    <div className="pt-[4rem] pb-[4rem] bg-[#02050a]">
+    <div id="contact" className="pt-[4rem] pb-[4rem] bg-[#02050a]">
       <h1 className="flex justify-center items-center text-[25px] md:text-[35px] lg:text-[45px] md:leading-[3rem] leading-[2rem] uppercase font-bold text-[#55e6a5] mb-[1rem]">
         Contact
       </h1>
